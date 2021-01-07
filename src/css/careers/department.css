@@ -1,0 +1,12 @@
+/* --------------------------------------------------------
+author: Ruminder Singh
+email: ruminder.singh@dal.ca
+----------------------------------------------------------*/
+
+.selected {
+	background-color: white;
+}
+
+li {
+	cursor: pointer;
+}

@@ -1,0 +1,11 @@
+/**
+ * @author by Souvik Das(Souvik.das@dal.ca)
+ * BANNER ID: B00847127
+ */
+.selected {
+	background-color: white;
+}
+
+li {
+	cursor: pointer;
+}

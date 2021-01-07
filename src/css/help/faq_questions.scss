@@ -1,0 +1,26 @@
+/**
+ * @author by Souvik Das(Souvik.das@dal.ca)
+ * BANNER ID: B00847127
+ */
+.openings {
+	margin-left: 5%;
+	margin-top: 1%;
+	width: 50%;
+
+	.card {
+		margin: 5px;
+		.card-header {
+			h6 {
+				display: flex;
+				justify-content: space-between;
+
+				i {
+					display: flex;
+					justify-content: space-between;
+				}
+			}
+		}
+		.card-body {
+		}
+	}
+}
